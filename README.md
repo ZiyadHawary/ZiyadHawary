@@ -21,16 +21,14 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const ziyad = {
-  role:       "Full-Stack Developer",
-  university: "Cairo University — B.Sc. Computer Science (2027)",
-  experience: "Schneider Electric · SWE Intern · Angular + .NET + Clean Architecture",
-  deployed:   ["FinTrack → financeapp.infinityfree.me", "TutorLink → ebusiness-tutoring.vercel.app"],
-  stack:      ["React", "Next.js", "Node.js", "PHP", "Firebase", ".NET", "SQL Server", "Power BI"],
-  interests:  ["Full-Stack Dev", "Data Engineering", "AI & Game Systems"],
-  currently:  "Building · Shipping · Repeating 🔁",
-};
+
+4th year CS student at **Cairo University**, former **Schneider Electric SWE intern** (Angular + .NET + Clean Architecture).
+
+I build full-stack products that actually ship — from a live finance tracker to a soccer analytics data warehouse with SSIS pipelines and Power BI dashboards.
+
+Currently deepening my stack in **React · Node.js · PHP · Firebase · SQL Server** and always looking for the next thing worth building.
+
+📍 Maadi, Cairo · Open to internships & collaborations
 ```
 
 ---
