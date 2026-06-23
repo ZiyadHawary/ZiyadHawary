@@ -29,8 +29,6 @@ I build full-stack products that actually ship — from a live finance tracker t
 Currently deepening my stack in **React · Node.js · PHP · Firebase · SQL Server** and always looking for the next thing worth building.
 
 📍 Maadi, Cairo · Open to internships & collaborations
-```
-
 ---
 
 ## 🚀 Featured Projects
