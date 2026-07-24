@@ -22,11 +22,11 @@
 ## 👨‍💻 About Me
 
 
-4th year CS student at **Cairo University**, former **Schneider Electric SWE intern** (Angular + .NET + Clean Architecture).
+4th year CS student at **Cairo University**, former **Schneider Electric SWE intern** (React + Node.js + Clean Architecture).
 
 I build full-stack products that actually ship — from a live finance tracker to a soccer analytics data warehouse with SSIS pipelines and Power BI dashboards.
 
-Currently deepening my stack in **React · Node.js · PHP · Firebase · SQL Server** and always looking for the next thing worth building.
+Currently deepening my stack in **React · Node.js · Firebase · SQL Server** and always looking for the next thing worth building.
 
 📍 Maadi, Cairo · Open to internships & collaborations
 ---
